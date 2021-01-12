@@ -111,10 +111,16 @@
         "url":"https://demo-3d-viewer.herokuapp.com/"
       },
       {
-        "title":"Greg Panciera - Music Production",
+        "title":"GP - Music Production",
         "category":"Music Production & Audio Engineering",
         "image":"gp-homepage.png",
         "url":"http://www.gregpanciera.com"
+      },
+      {
+        "title":"GP - Creative Portfolio",
+        "category":"Art and Sound Design Portfolio",
+        "image":"complex.jpg",
+        "url":"http://www.gregpanciera.art"
       }
     ]
   },

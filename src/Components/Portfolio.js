@@ -8,7 +8,7 @@ class Portfolio extends Component {
         var projectImage = 'images/portfolio/'+projects.image;
         return <div key={projects.title} className="gp-portfolio-item">
            <div className="gp-content-wrapper">
-            <a href={projects.url} title={projects.title}>
+            <a href={projects.url} title={projects.title} target="_blank" rel="noreferrer">
                <img alt={projects.title} src={projectImage} />
                <div className="gp-overlay">
                   <div className="gp-portfolio-item-meta">
