@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"Greg Panciera",
+    "occupation":"Software Engineer",
+    "description":"Welcome to everyone from UChicago CAEA!",
+    "image":"profilepic.jpg",
+    "bio":"Versatile, curious software engineer w experience designing and developing in Javascript, React, C++ and Node.js. Active open-source contributor. Inspired by intersection of tech and art/music, and by opportunities to advance human creativity, understanding, and connectedness.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "gregpanciera@gmail.com",
+    "phone": "323-899-2842",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Chicago",
+      "state":"IL",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.gregpanciera.com",
+    "resumedownload":"https://drive.google.com/file/d/1jIBElPAP-CWJTVWV2--3U3M73IConkvC/view",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gregpanciera",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/gpanciera",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Museum Collection Browser",
+        "category":"Explore the Cleveland Museum of Art Collection",
+        "image":"museum-screenshot.jpg",
+        "url":"https://museum-collection-browser.herokuapp.com/"
+      },
+      {
+        "title":"Reactime",
+        "category":"React State Debugging Tool",
+        "image":"reactime-screenshot.jpg",
+        "url":"https://reactime.io/"
+      },
+      {
+        "title":"3d Demo",
+        "category":"Simple Demo of 3d content hosted on ",
+        "image":"natl-cheng-kun-u.png",
+        "url":"https://demo-3d-viewer.herokuapp.com/"
+      },
+      {
+        "title":"Greg Panciera - Music Production",
+        "category":"Music Production & Audio Engineering",
+        "image":"gp-homepage.png",
+        "url":"http://www.gregpanciera.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
