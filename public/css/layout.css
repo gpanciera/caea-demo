@@ -32,7 +32,7 @@ header {
    position: relative;
    /* height: 800px; */
    height: 400px;
-   min-height: 500px;
+   /* min-height: 500px; */
    width: 100%;
    background: #161415 url(../images/scroll-6.jpg) no-repeat;
    background-size: cover !important;
@@ -45,8 +45,9 @@ header {
 header:before {
    content: '';
    display: inline-block;
-   vertical-align: middle;
-   height: 75%;
+   /* vertical-align: middle; */
+   min-height: 350px;
+   height: 36vh;
 }
 header .banner {
    display: inline-block;
